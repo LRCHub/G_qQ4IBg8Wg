@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "メリーバッドエンド",
+  "base_artist": "冴夜",
+  "createdAt": "2026-03-19T17:01:00.485742Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "メリーバッドエンド",
+      "artist": "Mafumafu",
+      "has_synced": true,
+      "path": "select/01_メリーバッドエンド_Mafumafu.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "メリーバッドエンド",
+      "artist": "After the Rain",
+      "has_synced": true,
+      "path": "select/02_メリーバッドエンド_After_the_Rain.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "メリーバッドエンド",
+      "artist": "冴夜",
+      "has_synced": false,
+      "path": "select/pl_01_メリーバッドエンド_冴夜.txt"
+    }
+  ]
+}
